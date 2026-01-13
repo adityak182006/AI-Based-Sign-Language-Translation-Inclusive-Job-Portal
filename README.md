@@ -52,17 +52,19 @@ Pickle (Model Serialization)
 
 NLP & Speech
 
+PyEnchant (Spell Checking & Suggestions)
 
-Contributors
+Grammar Correction Module
+
+Text-to-Speech API
+
+
+
+
+Contributors to the Project
 
 Aditya Kadwade
 
 Pushkar Jawale
 
 Ananya Barve
-
-PyEnchant (Spell Checking & Suggestions)
-
-Grammar Correction Module
-
-Text-to-Speech API

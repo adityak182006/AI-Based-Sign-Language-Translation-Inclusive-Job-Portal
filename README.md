@@ -9,59 +9,59 @@ This project bridges that gap by using Computer Vision, Machine Learning, and We
 
  Key Features
 
-🎥 Real-Time Sign Language to Text Conversion
+- Real-Time Sign Language to Text Conversion
 
-✋ Hand Landmark Detection using MediaPipe
+- Hand Landmark Detection using MediaPipe
 
-🤖 Machine Learning-based Gesture Classification
+- Machine Learning-based Gesture Classification
 
-✍️ Automatic Grammar Correction
+- Automatic Grammar Correction
 
-🔊 Text-to-Speech Output
+- Text-to-Speech Output
 
-🔁 Text to Sign Language Visualization
+- Text to Sign Language Visualization
 
-💼 Inclusive Job Portal for Differently-Abled Users
+- Inclusive Job Portal for Differently-Abled Users
 
-🌐 Web-Based Interface using Flask
+- Web-Based Interface using Flask
 
-🛠️ Technologies Used
+## Technologies Used
 Programming & Web
 
-Python
+-Python
 
-Flask
+-Flask
 
-HTML, CSS, JavaScript
+-HTML, CSS, JavaScript
 
-Computer Vision & AI
+-Computer Vision & AI
 
-OpenCV
+-OpenCV
 
-MediaPipe
+-MediaPipe
 
-NumPy
+-NumPy
 
-Scikit-learn
+-Scikit-learn
 
-Machine Learning
+-Machine Learning
 
-Random Forest Classifier
+-Random Forest Classifier
 
-Pickle (Model Serialization)
+-Pickle (Model Serialization)
 
-NLP & Speech
+-NLP & Speech
 
-PyEnchant (Spell Checking & Suggestions)
+-PyEnchant (Spell Checking & Suggestions)
 
-Grammar Correction Module
+-Grammar Correction Module
 
-Text-to-Speech API
-
-
+-Text-to-Speech API
 
 
-Contributors to the Project
+
+
+## Contributors to the Project
 
 Aditya Kadwade
 
